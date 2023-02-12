@@ -30,3 +30,27 @@ tion id : display-question.php
 – Search keyword in reverse chronological order : keysearch.php
 – Search keyword by relevance : keysearch2.php
 – Updating Profile : edit-profile.php, write-changes.php
+
+
+Home page after user is logged in 
+
+<img width="529" alt="Screen Shot 2023-02-12 at 4 39 23 PM" src="https://user-images.githubusercontent.com/38836635/218338773-ee65ddaa-6c12-47db-9ddc-d685ba6b39d6.png">
+
+
+
+
+
+
+
+
+<img width="628" alt="Screen Shot 2023-02-12 at 4 38 43 PM" src="https://user-images.githubusercontent.com/38836635/218338786-b031def6-505b-4500-a7a8-c257dd8bad47.png">
+
+
+
+
+
+
+
+
+
+
